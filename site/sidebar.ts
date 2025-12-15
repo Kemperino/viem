@@ -858,6 +858,10 @@ export const sidebar = {
               text: 'signAuthorization',
               link: '/docs/eip7702/signAuthorization',
             },
+            {
+              text: 'getDelegation',
+              link: '/docs/eip7702/getDelegation',
+            },
           ],
         },
         {
